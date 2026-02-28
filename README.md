@@ -19,7 +19,7 @@ This is an AI-powered tool built to assist non-lawyers in understanding legal do
 Most people sign contracts without reading them. This tool acts as a "first line of defense," bringing transparency to complex legal text in seconds.
 
 ## 📸 Demo
-*(Image.png)*
+<img width="1852" height="728" alt="Image" src="https://github.com/user-attachments/assets/8addd72e-76f3-4cf2-8f46-40cdf4e352d3" />
 
 ## ⚙️ Run Locally
 1.  Install requirements: `pip install streamlit spacy pdfplumber`
